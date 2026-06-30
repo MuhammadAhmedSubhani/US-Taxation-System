@@ -13,8 +13,8 @@ A comprehensive **C++ console-based tax estimation platform** that calculates fe
 
 | # | Name | Role |
 |---|------|------|
-| 1 | Saad Ali | Team Leader |
-| 2 | M. Ahmad Subhani | Developer |
+| 1 | M. Ahmad Subhani | Team Leader & Developer |
+| 2 | Saad Ali | Developer |
 | 3 | Asadullah Baig | Developer |
 | 4 | Uzair Alam | Tester |
 | 5 | Abdullah Khan | Documentation & Research |
